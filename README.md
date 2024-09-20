@@ -1,1 +1,2 @@
 # MED-LINK
+The Healthcare Resource Exchange Platform leverages machine learning to optimize the allocation of medical resources by connecting hospitals with local donors. This reduces waste, ensures fair distribution, and enhances healthcare outcomes through real-time decision-making. The platform's user-friendly interface and robust backend technology also promote community engagement and collaboration in the healthcare sector.
